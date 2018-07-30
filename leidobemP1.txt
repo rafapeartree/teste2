@@ -1,0 +1,203 @@
+
+Desenvolvimento de plataforma de mídias digitais
+
+
+Ficha Técnica
+
+
+Elemento Tecnologicamente Novo ou Inovador
+(máx. 1500 caracteres)
+
+Trata-se de uma nova plataforma denominada AdManager, voltada a anúncios publicitários, nos formatos de vídeos, voz e display, cujo o diferencial é a possibilidade de serviço sem que se afete o consumo de pacotes de dados ou crédito dos usuários. Disponibiliza anúncios com atenção garantida e recompensas com pacotes de dados e ligações gratuitas para usuários sem crédito. Assim, a plataforma oferece aos anunciantes reforço considerável de associação de marca e retenção da mensagem da peça publicitária, oferecendo uma recompensa ao usuário que interage com o anuncio. O sistema é capaz de identificar o perfil do usuário que está acessando sua página, através de um algoritmo desenvolvido, identificando o perfil de navegação. Para incrementar a oferta de produtos aos anunciantes foi criada uma solução de web push, já que as disponíveis no mercado não contemplam a situação em que o usuário, navegando na rede da operadora de telefonia celular, e com seu pacote de dados esgotado, pode ser alcançado por esse meio. A solução desenvolvida pela SupportComm utiliza um modelo de comunicação alternativo, através da utilização de chamadas assíncronas a web services desenvolvidos para este fim. Com o intuito de oferecer aos usuários mais possibilidades de interação com campanhas a fim de receber recompensas, foi criado o clube de vantagens permitindo a geração de descontos, vouchers, data rewards, voz rewards, mediante interação com as campanhas e ações no aplicativo.
+	
+
+Barreira ou Desafio Tecnológico Superável
+(máx. 1500 caracteres)
+
+Durante desenvolvimento do projeto, algumas barreiras foram se apresentando, destacam-se as seguintes: Durante testes realizados verificou-se que em algumas redes de telefonia móvel,  a aplicação perdia performance e não gerava uma boa experiência para o usuário, devido ao tamanho e alta resolução dos vídeos e imagens apresentadas, diminuindo o número de conversões por falhas de comunicação entre os servidores, perdas de pacotes e inconsistências de rede. Para eliminar esta barreira a equipe da Supportcomm desenvolveu uma nova interface responsiva para atendimento de todas as plataformas disponíveis (Android, IOS e Windows Phone), adaptável a qualquer tipo de dispositivo móvel ou PC. Foram detectadas outras barreiras no desenvolvimento do web push que não existe referência disponível sobre push notifications para usuário sem pacote de dados. Através da investigação das APIs e experimentação de chamadas, foi possível efetuar notificações. Nas tentativas iniciais tivemos excesso de consumo de bateria. Para minimizar este impacto, ajustamos o algoritmo de comunicação para minimizar o consumo de CPU pelo dispositivo móvel. A implementação tem o risco de se tornar obsoleta em futuras atualizações do sistema operacional ou navegadores do dispositivo, havendo alteração das APIs. Neste caso, será necessário novo processo de investigação e experimentação para manter a funcionalidade.
+
+
+Metodologia / Métodos Utilizados
+(máx. 1500 caracteres)
+
+Inicialmente se realizou pesquisa de mercado para o entendimento das necessidades do mesmo, avaliando todo o cenário de soluções já disponíveis até então. Assim, de posse dos dados se iniciou o processo de análise de viabilidade técnica do projeto levando-se em conta que a plataforma que seria desenvolvida seria totalmente inovador perante as disponíveis em mercado. Após todas as definições e avaliações, se iniciou o processo através da modelagem de entidade e relacionamento. Concluída a fase de planejamento da solução, se iniciou a fase de prototipação do sistema bem como a etapa codificação, que após sua conclusão foi posta a prova, através de testes em ambiente experimental interno, e assim que aprovado foi transferido para o ambiente de homologação para nova bateria de testes, seguido de disponibilização em produção.	
+
+Data de Início / Previsão de Termino
+(máx. 500 caracteres)
+
+A ideia do projeto surgiu em meados de 2016, entrando efetivamente em desenvolvimento logo no início de 2017 seguindo por todas as etapas de desenvolvimento até sua validação final que está prevista para o segundo semestre de 2018.	
+	
+
+Descrição Complementar do Projeto
+(máx. 3000 caracteres)
+
+Com o objetivo de inovar tecnologicamente, a SupportComm pesquisou e desenvolveu nova solução denominada AdManager, onde o sistema de Mobile Marketing desenvolvido foi integrado ao sistema de crédito das operadoras de telefonia móvel, para que se fosse possível exibir para os usuários que não possuem mais créditos de dados e voz, anúncios publicitários incluindo vídeos, assinatura de pacotes de dados e serviços de valor agregado sem que os pacotes de dados ou crédito para ligações dos usuários sejam consumidos. Através deste sistema foi possível abrir de forma inédita o espaço de páginas que são exibidas quando o usuário não tem crédito para o mercado de anúncio de marcas com publicidade em vídeo e voz. Dentre as inovações o AdManager possibilitou a integração das plataformas de mídias digitais em apenas uma solução, capaz de gerenciar todas as campanhas publicitárias nos formatos de vídeo e voz. Esta solução desenvolvida possibilitou às operadoras de telefonia móvel selecionar uma lista de usuários que são elegíveis às campanhas publicitárias, de acordo com a negociação com os anunciantes. Assim, o usuário pode interagir com tais campanhas de publicidade, mesmo não tendo mais dados disponíveis para navegação, onde será direcionado para estas páginas pré-estabelecidas, dando a ele a possibilidade de se obter mais créditos para navegação de internet mediante a visualização do conteúdo publicitário apresentado a ele.  O sistema desenvolvido oferece ao usuário a possibilidade de navegar na internet mesmo após ter sua franquia de dados ou crédito para ligações esgotadas, sem necessidade de pagar para isso, bastando assistir a um vídeo de menos de um minuto ou escutar uma campanha publicitária. Desta forma, os anunciantes têm sua marca reforçada e associada a uma recompensa ao usuário em um canal com potencial para atingir de milhões de usuários. A veiculação destas campanhas permite interação dos usuários, que normalmente não possui franquia de dados disponível ou crédito para ligações. O sistema foi capaz de identificar o perfil do usuário que está acessando sua página, através de um algoritmo desenvolvido, identificando o perfil de navegação e o tipo do plano do usuário para o mercado de anúncio de marcas com publicidade em vídeo e voz. A solução desenvolvida pela SupportComm utiliza um modelo de comunicação alternativo, através da utilização de chamadas assíncronas a web services desenvolvidos para este fim. Com o intuito de oferecer aos usuários mais possibilidades de interação com campanhas a fim de receber recompensas, foi criado o clube de vantagens permitindo a geração de descontos, vouchers, data rewards, voz rewards, mediante interação com as campanhas e ações no aplicativo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adendo
+
+
+A fim de incrementar ainda mais seu portfólio de produtos existentes, a SupportComm buscou desenvolver uma nova forma de disponibilizar conteúdo a seus clientes. Assim, pesquisou e desenvolveu nova plataforma de mídias digitais AdManager com os seguintes elementos inovadores:
+
+Novo sistema de Mobile Marketing;
+
+Possibilidade de navegação via internet mesmo sem pacote de dados;
+
+Possibilidade de realizar ligações gratuitas mesmo sem crédito;
+
+Novo formato para disponibilização de conteúdo publicitário;
+
+Disponibilização de espaço de páginas Captive (páginas exibidas após o esgotamento do plano de dados do usuário)
+
+Nova forma de disponibilizar créditos para navegação na internet;
+
+Geração automatizada de relatórios para informação dos anunciantes;
+
+Realizar downloads de aplicativos pré-determinados sem que esta ação consuma seu pacote de dados de internet;
+
+Possibilidade de aplicar filtros para avaliação e segmentação de campanhas por DDD, tipo de plano do usuário, API da operadora e perfil demográfico;
+
+Diante do exposto, a SupportComm busca sempre inovar, desenvolvendo soluções tecnológicas para o incremento de seu portfólio de produtos, através de sua equipe de pesquisadores altamente qualificados e de seus parceiros.
+
+	
+
+
+
+
+
+
+
+Cronograma de Execução do Projeto
+
+
+O presente projeto foi desenvolvido seguindo as seguintes etapas do cronograma abaixo:
+
+Etapa
+Início 
+Fim
+Primeiras impressões sobre o projeto 
+10/2016
+12/2016
+Pesquisas e avaliações de produtos já existentes 
+01/2017
+01/2017
+Análise de viabilidade interna 
+02/2017
+03/2017
+Analise de viabilidade técnica 
+03/2017
+05/2017
+Modelagem dos dados (MER)
+05/2017
+06/2017
+Codificação e Prototipação 
+07/2017
+11/2017
+Testes internos e teste de produção
+12/2017
+12/2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conclusão
+
+
+Durante o ano de 2017, a SupportComm buscou desenvolver nova solução tecnológica para incrementar seu portfólio de produtos. Assim, a empresa pesquisou e desenvolveu nova ferramenta, ou seja, plataforma AdManager que pudesse ser integrada ao sistema de crédito conduzido pelas operadoras de telefonia móvel do Brasil.
+
+Nesta nova plataforma foi possível disponibilizar uma forma de apresentação de conteúdo publicitário bem como a possibilidade de acessar a estes conteúdo mesmo como seu plano de dados esgotado.  
+
+Durante o desenvolvimento encontrou-se barreiras e limitações técnicas a nível de perda de performance operacional do sistema em algumas redes de telefonia móvel, que durante os testes apresentava lentidão mediante tamanho e resolução do conteúdo publicitário apresentado quer seja vídeo ou imagens.
+
+Outro ponto superado foi o da perda de performance do sistema que após algumas pesquisas foi solucionado mediante o emprego de novas regras na query estabelecida.
+
+Após todo o tramite de desenvolvimento e testes o sistema foi validado, para que iniciasse as atividades no inicio de 2018. Desta forma, a SupportComm ficou plenamente satisfeita com o desenvolvimento deste projeto, pois abriu novas possiblidades para empresa, tornando-a mais competitiva perante o mercado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anexos
+
+
+Figura 1. Tela de login
+
+
+Figura 2. Acesso ao sistema
+
+
+
+
+
+
+Figura 3. Elaboração/Aprovação de Campanhas Publicitárias
+
+
+Figura 4. Dashboard, evolução das campanhas publicitárias
+
+
+
+
+
+
+
+
+
+
+
+Figura 5. Tela, geração de relatórios fixos
+
+
+Figura 6. Tela, geração de relatórios personalizados
+
+
