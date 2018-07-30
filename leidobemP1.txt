@@ -14,13 +14,13 @@ Trata-se de uma nova plataforma denominada AdManager, voltada a anúncios public
 Barreira ou Desafio Tecnológico Superável
 (máx. 1500 caracteres)
 
-Durante desenvolvimento do projeto, algumas barreiras foram se apresentando, destacam-se as seguintes: Durante testes realizados verificou-se que em algumas redes de telefonia móvel,  a aplicação perdia performance e não gerava uma boa experiência para o usuário, devido ao tamanho e alta resolução dos vídeos e imagens apresentadas, diminuindo o número de conversões por falhas de comunicação entre os servidores, perdas de pacotes e inconsistências de rede. Para eliminar esta barreira a equipe da Supportcomm desenvolveu uma nova interface responsiva para atendimento de todas as plataformas disponíveis (Android, IOS e Windows Phone), adaptável a qualquer tipo de dispositivo móvel ou PC. Foram detectadas outras barreiras no desenvolvimento do web push que não existe referência disponível sobre push notifications para usuário sem pacote de dados. Através da investigação das APIs e experimentação de chamadas, foi possível efetuar notificações. Nas tentativas iniciais tivemos excesso de consumo de bateria. Para minimizar este impacto, ajustamos o algoritmo de comunicação para minimizar o consumo de CPU pelo dispositivo móvel. A implementação tem o risco de se tornar obsoleta em futuras atualizações do sistema operacional ou navegadores do dispositivo, havendo alteração das APIs. Neste caso, será necessário novo processo de investigação e experimentação para manter a funcionalidade.
+Durante desenvolvimento do projeto, algumas barreiras foram se apresentando, destacam-se as seguintes: Durante testes realizados verificou-se que em algumas redes de telefonia móvel,  a aplicação perdia performance e não gerava uma boa experiência para o usuário, devido ao tamanho e alta resolução dos vídeos e imagens apresentadas, diminuindo o número de conversões por falhas de comunicação entre os servidores, perdas de pacotes e inconsistências de rede. Para eliminar esta barreira a equipe da SupportComm desenvolveu uma nova interface responsiva para atendimento de todas as plataformas disponíveis (Android, IOS e Windows Phone), adaptável a qualquer tipo de dispositivo móvel ou PC. Foram detectadas outras barreiras no desenvolvimento do web push que não existe referência disponível sobre push notifications para usuário sem pacote de dados. Através da investigação das APIs e experimentação de chamadas, foi possível efetuar notificações. Nas tentativas iniciais tivemos excesso de consumo de bateria. Para minimizar este impacto, ajustamos o algoritmo de comunicação para minimizar o consumo de CPU pelo dispositivo móvel. A implementação tem o risco de se tornar obsoleta em futuras atualizações do sistema operacional ou navegadores do dispositivo, havendo alteração das APIs. Neste caso, será necessário novo processo de investigação e experimentação para manter a funcionalidade.
 
 
 Metodologia / Métodos Utilizados
 (máx. 1500 caracteres)
 
-Inicialmente se realizou pesquisa de mercado para o entendimento das necessidades do mesmo, avaliando todo o cenário de soluções já disponíveis até então. Assim, de posse dos dados se iniciou o processo de análise de viabilidade técnica do projeto levando-se em conta que a plataforma que seria desenvolvida seria totalmente inovador perante as disponíveis em mercado. Após todas as definições e avaliações, se iniciou o processo através da modelagem de entidade e relacionamento. Concluída a fase de planejamento da solução, se iniciou a fase de prototipação do sistema bem como a etapa codificação, que após sua conclusão foi posta a prova, através de testes em ambiente experimental interno, e assim que aprovado foi transferido para o ambiente de homologação para nova bateria de testes, seguido de disponibilização em produção.	
+Inicialmente se realizou pesquisa de mercado para o entendimento das necessidades do mesmo, avaliando todo o cenário de soluções já disponíveis até então. Assim, de posse dos dados se iniciou o processo de análise de viabilidade técnica do projeto levando-se em conta que a plataforma que seria desenvolvida seria totalmente inovadora perante as disponíveis em mercado. Após todas as definições e avaliações, se iniciou o processo através da modelagem de entidade e relacionamento. Concluída a fase de planejamento da solução, se iniciou a fase de prototipação do sistema bem como a etapa codificação, que após sua conclusão foi posta a prova, através de testes em ambiente experimental interno, e assim que aprovado foi transferido para o ambiente de homologação para nova bateria de testes, seguido de disponibilização em produção.	
 
 Data de Início / Previsão de Termino
 (máx. 500 caracteres)
@@ -112,7 +112,7 @@ Codificação e Prototipação
 Testes internos e teste de produção
 12/2017
 12/2017
-
+Cronograma, atividades realizadas em 2017
 
 
 
